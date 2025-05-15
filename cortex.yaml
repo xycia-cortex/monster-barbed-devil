@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-barbed-devil
+  x-cortex-tag: monster-barbed-devil
+  x-cortex-custom-metadata:
+    alignment: neutral
+    type: monstrosity
+    challenge_rating: 27
+    legendary: true
+    armor_class: 14
+    hit_points: 273
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-barbed-devil
+      alias: github-token-test
